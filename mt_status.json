@@ -1,0 +1,82 @@
+{
+  "abbcidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "bcdidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "bnxnewidr": {
+    "status": 1,
+    "since": "2025-09-15 10:58:49",
+    "symbol": "FORMIDR"
+  },
+  "botxidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "celoidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "ckbidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "daridr": {
+    "status": 1,
+    "since": "2025-09-15 10:58:50",
+    "symbol": "DIDR"
+  },
+  "ernidr": {
+    "status": 1,
+    "since": "2025-09-15 10:58:51",
+    "symbol": "EPICIDR"
+  },
+  "ftmidr": {
+    "status": 1,
+    "since": "2025-08-18 16:17:57"
+  },
+  "game2idr": {
+    "status": 1,
+    "since": "2025-09-15 10:57:48",
+    "symbol": "GAMEIDR"
+  },
+  "gxcidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "iotaidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "mtlidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "neorpidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "tiaidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "vexidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "vsysidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "xemidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  },
+  "xtzidr": {
+    "status": 1,
+    "since": "1945-08-17 10:00:00"
+  }
+}
